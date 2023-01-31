@@ -4,7 +4,7 @@ while [ $RUN = 1 ] # while run flag equals 1 - reopening menu after each action
 do
   clear
   echo ===============================================================================
-  echo "SteavenToolbox 0.1 | We care about your pc!" "Ubuntu 22.04 and Ubuntu 22.10!"
+  echo "SteavenToolbox 0.1 | We care about your pc!" "Arch Linux!"
   echo ===============================================================================
   echo "1. Update Arch Linux"
   echo "2. Install Needed Arch Linux Apps Apps"
